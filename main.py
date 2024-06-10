@@ -4,8 +4,8 @@ import imageio
 import os
 
 # Define paths and configurations
-# Add the model in your system path (e.g., 'D:/custom/best_person.pt')
-model_path = 'D:/custom/best_person.pt'
+# Add the model in your system path (e.g., 'D:/custom/base_person.pt')
+model_path = 'D:/custom/base_person.pt'
 confidence_threshold = 0.9
 
 
