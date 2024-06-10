@@ -1,0 +1,6 @@
+torch
+torchvision
+opencv-python-headless
+imageio
+numpy
+git+https://github.com/ultralytics/yolov5.git
